@@ -41,6 +41,7 @@
 
 - 🕵️ **[netsentry](https://github.com/Yasine8710/netsentry)** — reads network captures (PCAP) and explains *why* traffic looks suspicious, instead of just yelling "ALERT".
 - 💸 **[track_it](https://github.com/Yasine8710/track_it)** — a money tracker with a pet, because guilt works better when it's cute.
+- 🪐 **[orbit](https://github.com/Yasine8710/orbit-releases)** — a Windows app. Installers live in the releases repo.
 - 🔒 **Secret quests (private repos)** — a couple of PHP experiments, and ideas that aren't ready for daylight yet.
 
 ## 🎲 Fun facts
