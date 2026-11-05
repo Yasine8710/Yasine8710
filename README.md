@@ -3,8 +3,8 @@
 <p align="center"><i>Student by day, vibe coder by night.</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat furiously typing on a laptop" />
-  <br><sub>me, fixing "one small bug" at 2am</sub>
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="320" alt="This is fine dog in a burning room" />
+  <br><sub>me, shipping AI code I did not read</sub>
 </p>
 
 ## Building
