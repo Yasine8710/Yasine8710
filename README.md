@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yassine 👋</h1>
 
-<p align="center"><i>Student by day, debugger by night.</i></p>
+<p align="center"><i>Student by day, vibe coder by night.</i></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat furiously typing on a laptop" />
